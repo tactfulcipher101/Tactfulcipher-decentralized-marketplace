@@ -1,5 +1,2 @@
-Decentralized Marketplace 🛒
-A Solidity-based decentralized marketplace where users can list, buy, and sell products securely on the Ethereum blockchain.
-
- 
-
+This project implements a simple decentralized marketplace smart contract where users can list products, purchase items using ETH, and track transactions directly on-chain.
+The system demonstrates how basic economic exchange can be represented using Solidity smart contracts, replacing centralized intermediaries with transparent blockchain logic.
